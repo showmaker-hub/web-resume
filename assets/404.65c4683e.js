@@ -1,0 +1,1 @@
+import{_ as r,a as e,c as o}from"./app.48af1194.js";import"./yamlWorker.73890f48.js";import"./editorWorker.5e336211.js";const a={};function t(c,s){return e(),o("h1",null,"404")}var p=r(a,[["render",t]]);export{p as default};

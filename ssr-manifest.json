@@ -1,0 +1,4114 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/vue-gtag-next/dist/vue-gtag-next.esm.js": [],
+  "src/modules/gtag.ts": [],
+  "locales/en.yml": [],
+  "locales/zh-CN.yml": [],
+  "node_modules/vue-i18n/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/@intlify/core-base/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/@intlify/core-base/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [],
+  "node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [],
+  "node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [],
+  "node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [],
+  "src/modules/i18n.ts": [],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "node_modules/nprogress/nprogress.js": [],
+  "src/modules/nprogress.ts": [],
+  "node_modules/vue-demi/lib/index.mjs": [],
+  "node_modules/pinia/dist/pinia.esm-browser.js": [],
+  "src/modules/pinia.ts": [],
+  "vite/preload-helper": [],
+  "src/modules/pwa.ts": [],
+  "node_modules/vite-ssg/dist/chunk-YPUM4SRK.mjs": [],
+  "node_modules/vite-ssg/dist/chunk-UH52UDT5.mjs": [],
+  "node_modules/vue-router/dist/vue-router.esm-bundler.js": [],
+  "node_modules/@vueuse/head/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/index.mjs": [],
+  "src/components/HelloResume.vue": [],
+  "~icons/ri/file-text-line": [],
+  "package.json": [],
+  "src/components/GithubCorner.vue?vue&type=style&index=0&lang.scss": [],
+  "src/components/GithubCorner.vue": [],
+  "src/pages/index.vue?vue&type=style&index=0&lang.css": [],
+  "src/pages/index.vue": [],
+  "../../../../../@vite-plugin-pages/generated-pages": [],
+  "~icons/ri/github-line": [],
+  "~icons/ri/file-info-line": [],
+  "~icons/ri/translate": [],
+  "~icons/ri/sun-line": [],
+  "~icons/ri/moon-line": [],
+  "~icons/ri/side-bar-line": [],
+  "~icons/ri/home2-line": [],
+  "node_modules/vue-about-me/dist/vue-about-me.es.js": [],
+  "node_modules/@vueuse/shared/index.mjs": [],
+  "node_modules/@vueuse/core/index.mjs": [],
+  "src/logic/dark.ts": [],
+  "node_modules/vue-about-me/dist/style.css": [],
+  "src/components/base/Footer.vue": [],
+  "plugin-vue:export-helper": [],
+  "src/layouts/default.vue": [],
+  "../../../../../@vite-plugin-vue-layouts/generated-layouts": [],
+  "src/App.vue?vue&type=style&index=0&lang.scss": [],
+  "src/App.vue": [],
+  "../../../../../@windicss/windi-base.css": [],
+  "../../../../../@windicss/windi-components.css": [],
+  "src/styles/index.scss": [],
+  "../../../../../@windicss/windi-utilities.css": [],
+  "src/main.ts": [],
+  "index.html": [],
+  "node_modules/monaco-editor/esm/vs/base/common/platform.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/wordHelper.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/errors.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/functional.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/iterator.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/lifecycle.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/linkedList.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/stopwatch.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/event.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/cancellation.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/keyCodes.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/process.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/path.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/uri.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/core/position.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/core/range.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/core/selection.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/core/token.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/standalone/standaloneEnums.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/standalone/standaloneBase.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/strings.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/types.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/hash.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/worker/simpleWorker.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/diff/diffChange.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/diff/diff.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/diff/diffComputer.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/uint.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewModel/prefixSumComputer.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/mirrorTextModel.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/core/characterClassifier.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/linkComputer.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/supports/inplaceReplaceSupport.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/editorSimpleWorker.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/editor.worker.js": [
+    "/assets/editorWorker.5e336211.js"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/js-yaml/dist/js-yaml.mjs": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/map.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/map.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/seq.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/seq.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/str.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/str.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/float.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/float.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/int.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/int.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/bool.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/bool.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/null.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/null.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/schema/failsafe.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/schema/failsafe.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000__vite-browser-external?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "__vite-browser-external": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/schema/json.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/schema/json.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/js/regexp.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/js/regexp.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/js/undefined.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/js/undefined.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/set.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/set.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/pairs.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/pairs.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/omap.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/omap.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/binary.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/binary.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/merge.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/merge.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type/timestamp.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type/timestamp.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/schema/core.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/schema/core.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/schema.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/common.js?commonjs-exports": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/scalarInference.js?commonjs-exports": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/yamlAST.js?commonjs-exports": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/dumper.js?commonjs-exports": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/schema/default_full.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/schema/default_full.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/schema/default_safe.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/schema/default_safe.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/mark.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/mark.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/loader.js?commonjs-exports": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/prettier/parser-yaml.js?commonjs-module": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/prettier/standalone.js?commonjs-module": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type.js?commonjs-exports": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/type.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/common.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/common.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/schema.js?commonjs-exports": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/scalarInference.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/scalarInference.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/yamlAST.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/yamlAST.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/exception.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/exception.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/dumper.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/dumper.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/loader.js?commonjs-proxy": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/loader.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "\u0000/home/runner/work/web-resume/web-resume/node_modules/yaml-language-server-parser/dist/src/index.js?commonjs-exports": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/prettier/parser-yaml.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/prettier/standalone.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/path-browserify/index.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/type.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/schema.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/yaml-language-server-parser/dist/src/index.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/vscode-languageserver-types/lib/esm/main.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/vscode-languageserver-textdocument/lib/esm/main.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/monaco-yaml/lib/esm/yaml.worker.js": [
+    "/assets/yamlWorker.73890f48.js"
+  ],
+  "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
+    "/assets/virtual_pwa-register.932ceed5.js"
+  ],
+  "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
+    "/assets/virtual_pwa-register.932ceed5.js"
+  ],
+  "src/pages/resume.vue": [
+    "/assets/resume.aed7a5d6.js"
+  ],
+  "src/components/resume/Footer.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/IconifyIcon.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/IconifyIcon.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/resume/Header.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/base/Title.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/base/Title.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/resume/Education.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/resume/Education.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/resume/Project.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/resume/Project.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/certificate/Item.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/resume/Certificate.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/resume/Skill.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/resume/Other.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/components/resume/All.vue": [
+    "/assets/All.bf1261b9.js",
+    "/assets/All.9ff9e8d7.css"
+  ],
+  "src/logic/resume.ts": [
+    "/assets/editor.cc2ba71a.js"
+  ],
+  "src/utils/index.ts": [
+    "/assets/editor.cc2ba71a.js"
+  ],
+  "src/stores/editor.ts": [
+    "/assets/editor.cc2ba71a.js"
+  ],
+  "src/assets/resume/local.resume.yml": [
+    "/assets/local.bdc2e81d.js"
+  ],
+  "src/pages/local.vue": [
+    "/assets/local.bdc2e81d.js"
+  ],
+  "src/monaco/setup.ts": [
+    "/assets/editor.fb4b867f.js",
+    "/assets/editor.0c8e3429.css"
+  ],
+  "src/components/MonacoEditor.vue?vue&type=style&index=0&lang.css": [
+    "/assets/editor.fb4b867f.js",
+    "/assets/editor.0c8e3429.css"
+  ],
+  "src/components/MonacoEditor.vue": [
+    "/assets/editor.fb4b867f.js",
+    "/assets/editor.0c8e3429.css"
+  ],
+  "src/pages/editor.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/editor.fb4b867f.js",
+    "/assets/editor.0c8e3429.css"
+  ],
+  "src/pages/editor.vue": [
+    "/assets/editor.fb4b867f.js",
+    "/assets/editor.0c8e3429.css"
+  ],
+  "src/pages/about.md": [
+    "/assets/about.8e63e911.js"
+  ],
+  "src/layouts/404.vue": [
+    "/assets/404.65c4683e.js"
+  ],
+  "src/layouts/resume.vue": [
+    "/assets/resume.12786907.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/nls.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/config/editorOptions.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/standalone-tokens.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/instantiation/common/instantiation.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/services/codeEditorService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/browser.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/canIUse.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/keybindings.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/keyboardEvent.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/iframe.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/mouseEvent.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/async.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/network.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/dom.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/map.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/buffer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/marshalling.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/extpath.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/resources.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/commands/common/commands.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/editor/common/editor.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/opener/common/opener.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/services/openerService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/assert.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/objects.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/widget/diffNavigator.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/config/editorZoom.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/config/fontInfo.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/editorCommon.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/numbers.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/glob.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/languageSelector.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/modelService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/languageFeatureRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/tokenizationRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/codicons.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/nullMode.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/editorWorkerService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/modeService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/resolverService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/worker/defaultWorkerFactory.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/languageConfiguration.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/supports.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/supports/characterPair.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/core/stringBuilder.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/supports/richEditBrackets.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/supports/electricCharacter.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/supports/indentRules.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/supports/onEnter.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/registry/common/platform.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/jsonschemas/common/jsonContributionRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/configuration/common/configurationRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/configuration/common/configuration.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/instantiation/common/descriptors.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/instantiation/common/extensions.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/languageConfigurationRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/textResourceConfigurationService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/arrays.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/log/common/log.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/editorWorkerServiceImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/webWorker.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/core/lineTokens.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewLayout/lineDecorations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewLayout/viewLineRenderer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewModel/viewModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/common/monarch/monarchCommon.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/common/monarch/monarchLexer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/colorizer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/severity.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/editorBrowser.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/services/bulkEditService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/collections.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/config/commonEditorConfig.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/core/editOperation.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/configuration/common/configurationModels.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/keybinding/common/abstractKeybindingService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/contextkey/common/contextkey.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/keybinding/common/keybindingResolver.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/keybinding/common/keybindingsRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/keybinding/common/resolvedKeybindingItem.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/keybindingLabels.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/keybinding/common/baseResolvedKeybinding.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/keybinding/common/usLayoutResolvedKeybinding.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/notification/common/notification.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/workspace/common/workspace.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/standaloneStrings.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/simpleServices.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/aria/aria.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/aria/aria.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/markersDecorationService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/actions.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/theme/common/theme.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/theme/common/themeService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/actions/common/actions.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/telemetry/common/telemetry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/editorExtensions.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/services/markerDecorations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/widget/media/editor.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/config/charWidthReader.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/config/elementSizeObserver.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/config/configuration.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/fastDomNode.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/decorators.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/touch.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/globalMouseMoveMonitor.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/editorDom.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewModel/viewEventHandler.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/view/viewPart.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/view/renderingContext.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/lines/rangeUtil.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/lines/viewLine.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/textChange.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/editStack.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/indentationGuesser.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/intervalTree.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/pieceTreeTextBuffer/rbTreeBase.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/wordCharacterClassifier.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/textModelSearch.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/pieceTreeTextBuffer/pieceTreeBase.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/tokensStore.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/pieceTreeTextBuffer/pieceTreeTextBuffer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/pieceTreeTextBuffer/pieceTreeTextBufferBuilder.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/textModelEvents.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/textModelTokens.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/color.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/undoRedo/common/undoRedo.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/bracketPairs.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/impl/length.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/impl/beforeEditPositionMapper.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorColumns.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/impl/smallImmutableSet.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/impl/ast.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/impl/tokenizer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/impl/brackets.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/impl/concat23Trees.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/impl/nodeReader.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/impl/parser.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/bracketPairsImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/theme/common/colorRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/view/editorColorRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/bracketPairs/colorizedBracketPairsDecorationProvider.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/model/textModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorCommon.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorAtomicMoveOperations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/controller/mouseTarget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/controller/mouseHandler.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/mime.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/controller/textAreaState.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/controller/textAreaInput.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/controller/pointerHandler.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/controller/textAreaHandler.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/lineNumbers/lineNumbers.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/view/dynamicViewOverlay.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/lineNumbers/lineNumbers.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/margin/margin.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/mouseCursor/mouseCursor.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/mouseCursor/mouseCursor.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/controller/textAreaHandler.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorColumnSelection.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/commands/replaceCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorMoveOperations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorDeleteOperations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorWordOperations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorMoveCommands.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/commands/shiftCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/commands/surroundSelectionCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorTypeOperations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/editorContextKeys.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/controller/coreCommands.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/view/viewController.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/view/viewUserInputEvents.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/view/viewLayer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/view/viewOverlays.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/contentWidgets/contentWidgets.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/currentLineHighlight/currentLineHighlight.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/currentLineHighlight/currentLineHighlight.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/decorations/decorations.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/decorations/decorations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/widget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/scrollbar/scrollbarArrow.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/scrollbar/scrollbarVisibilityController.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/scrollbar/abstractScrollbar.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/scrollbar/scrollbarState.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/scrollbar/horizontalScrollbar.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/scrollbar/verticalScrollbar.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/scrollable.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/scrollbar/media/scrollbars.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/scrollbar/scrollableElement.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/editorScrollbar/editorScrollbar.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/glyphMargin/glyphMargin.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/glyphMargin/glyphMargin.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/indentGuides/indentGuides.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/indentGuides/indentGuides.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/lines/viewLines.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/lines/viewLines.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/linesDecorations/linesDecorations.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/linesDecorations/linesDecorations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/marginDecorations/marginDecorations.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/marginDecorations/marginDecorations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/minimap/minimap.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/core/rgba.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewModel/minimapTokensColorTracker.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/minimap/minimapCharSheet.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/minimap/minimapCharRenderer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/minimap/minimapPreBaked.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/minimap/minimapCharRendererFactory.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/minimap/minimap.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/overlayWidgets/overlayWidgets.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/overlayWidgets/overlayWidgets.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/overviewRuler/decorationsOverviewRuler.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/view/overviewZoneManager.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/overviewRuler/overviewRuler.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/rulers/rulers.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/rulers/rulers.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/scrollDecoration/scrollDecoration.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/scrollDecoration/scrollDecoration.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/selections/selections.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/selections/selections.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/viewCursors/viewCursors.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/viewCursors/viewCursor.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/viewCursors/viewCursors.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/viewParts/viewZones/viewZones.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/view/viewContext.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewLayout/viewLinesViewportData.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/view/viewImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/oneCursor.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursorCollection.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/view/viewEvents.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewModel/viewModelEventDispatcher.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/controller/cursor.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/editorAction.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/textToHtmlTokenizer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewLayout/linesLayout.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewLayout/viewLayout.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewModel/splitLinesCollection.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewModel/viewModelDecorations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/modesRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewModel/viewModelImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/instantiation/common/serviceCollection.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/accessibility/common/accessibility.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/viewModel/monospaceLineBreaksComputer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/view/domLineBreaksComputer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/widget/codeEditorWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/widget/media/diffEditor.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/event.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/sash/sash.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/sash/sash.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/core/keybindingCancellation.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/core/editorState.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/widget/media/diffReview.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/dnd.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/actionbar/actionbar.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/actionbar/actionViewItems.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/actionbar/actionbar.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/theme/common/iconRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/widget/diffReview.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/contextview/browser/contextView.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/widget/inlineDiffMargin.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/clipboard/common/clipboardService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/progress/common/progress.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/widget/diffEditorWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/common/standaloneThemeService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/keybinding/common/keybinding.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/services/abstractCodeEditorService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/services/codeEditorServiceImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/standaloneCodeServiceImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/standaloneCodeEditor.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/languagesRegistry.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/modeServiceImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/semanticTokensProviderStyling.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/semanticTokensDto.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/getSemanticTokens.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/modelServiceImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/modes/supports/tokenization.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/common/themes.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/theme/browser/iconsStyleSheet.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/standaloneThemeServiceImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/contextkey/browser/contextKeyService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/codicons/codicon/codicon.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/codicons/codicon/codicon-modifiers.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/codicons/codiconStyles.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/range.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/contextview/contextview.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/contextview/contextview.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/filters.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/iconLabels.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/menu/menu.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/contextview/browser/contextMenuHandler.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/theme/common/styler.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/contextview/browser/contextMenuHandler.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/contextview/browser/contextMenuService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/layout/browser/layoutService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/contextview/browser/contextViewService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/dialogs/common/dialogs.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/instantiation/common/graph.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/instantiation/common/instantiationService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/label/common/label.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/list/list.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/list/splice.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/list/list.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/list/rangeMap.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/list/rowCache.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/list/listView.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/list/listWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/list/listPaging.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/splitview/splitview.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/splitview/splitview.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/table/table.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/table/tableWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/tree.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/indexTreeModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/treeIcons.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/media/tree.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/abstractTree.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/objectTreeModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/compressedObjectTreeModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/objectTree.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/asyncDataTree.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/tree/dataTree.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/contextkey/common/contextkeys.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/list/browser/listService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/markers/common/markers.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/markers/common/markerService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/parts/storage/common/storage.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/storage/common/storage.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/actions/common/menuService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/markerDecorationsServiceImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/accessibility/browser/accessibilityService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/clipboard/browser/clipboardService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/undoRedo/common/undoRedoService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/quickInput/standaloneQuickInput.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/iconLabel/iconLabels.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/button/button.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/button/button.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/countBadge/countBadge.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/countBadge/countBadge.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/progressbar/progressbar.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/progressbar/progressbar.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/idGenerator.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/parts/quickinput/browser/media/quickInput.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/parts/quickinput/browser/quickInputUtils.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/parts/quickinput/common/quickInput.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/formattedTextRenderer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/navigator.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/history.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/inputbox/inputBox.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/inputbox/inputBox.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/parts/quickinput/browser/quickInputBox.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/highlightedlabel/highlightedLabel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/htmlContent.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/iconLabel/iconLabelHover.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/iconLabel/iconlabel.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/iconLabel/iconLabel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/keybindingLabel/keybindingLabel.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/keybindingLabel/keybindingLabel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/comparers.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/parts/quickinput/browser/quickInputList.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/parts/quickinput/browser/quickInput.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/quickinput/common/quickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/quickinput/common/quickInput.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/quickinput/browser/quickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/quickinput/browser/quickInput.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/quickInput/standaloneQuickInputServiceImpl.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/standaloneServices.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/standaloneEditor.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/common/monarch/monarchCompile.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/standaloneLanguages.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/format/formattingEdit.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/extensions/common/extensions.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/format/format.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/editor.api.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/typescript/lib/typescriptServicesMetadata.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/typescript/monaco.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/css/monaco.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/json/monaco.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/html/monaco.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/_.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/abap/abap.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/apex/apex.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/azcli/azcli.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/bat/bat.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/bicep/bicep.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/cameligo/cameligo.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/clojure/clojure.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/coffee/coffee.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/cpp/cpp.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/csharp/csharp.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/csp/csp.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/css/css.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/dart/dart.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/dockerfile/dockerfile.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/ecl/ecl.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/elixir/elixir.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/flow9/flow9.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/fsharp/fsharp.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/go/go.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/graphql/graphql.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/handlebars/handlebars.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/hcl/hcl.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/html/html.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/ini/ini.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/java/java.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/javascript/javascript.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/julia/julia.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/kotlin/kotlin.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/less/less.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/lexon/lexon.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/lua/lua.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/liquid/liquid.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/m3/m3.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/markdown/markdown.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/mips/mips.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/msdax/msdax.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/mysql/mysql.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/objective-c/objective-c.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pascal/pascal.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pascaligo/pascaligo.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/perl/perl.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pgsql/pgsql.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/php/php.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pla/pla.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/postiats/postiats.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/powerquery/powerquery.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/powershell/powershell.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/protobuf/protobuf.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pug/pug.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/python/python.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/qsharp/qsharp.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/r/r.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/razor/razor.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/redis/redis.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/redshift/redshift.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/restructuredtext/restructuredtext.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/ruby/ruby.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/rust/rust.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/sb/sb.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/scala/scala.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/scheme/scheme.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/scss/scss.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/shell/shell.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/solidity/solidity.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/sophia/sophia.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/sparql/sparql.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/sql/sql.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/st/st.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/swift/swift.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/systemverilog/systemverilog.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/tcl/tcl.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/twig/twig.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/typescript/typescript.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/vb/vb.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/xml/xml.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/yaml/yaml.contribution.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/anchorSelect/anchorSelect.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/anchorSelect/anchorSelect.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/bracketMatching/bracketMatching.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/bracketMatching/bracketMatching.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/caretOperations/moveCaretCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/caretOperations/caretOperations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/caretOperations/transpose.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/clipboard/clipboard.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/lazy.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codeAction/types.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codeAction/codeAction.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/message/messageController.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/message/messageController.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codeAction/codeActionMenu.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codeAction/lightBulbWidget.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codeAction/lightBulbWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codeAction/codeActionUi.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codeAction/codeActionModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codeAction/codeActionCommands.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codeAction/codeActionContributions.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codelens/codelens.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codelens/codeLensCache.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codelens/codelensWidget.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codelens/codelensWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/codelens/codelensController.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/colorPicker/color.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/colorPicker/colorDetector.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/link/goToDefinitionAtPosition.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/link/clickLinkGesture.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/peekView/media/peekViewWidget.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/widget/embeddedCodeEditorWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/zoneWidget/zoneWidget.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/zoneWidget/zoneWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/dropdown/dropdown.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/dropdown/dropdown.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/dropdown/dropdownActionViewItem.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/actions/browser/menuEntryActionViewItem.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/actions/browser/menuEntryActionViewItem.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/peekView/peekView.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/referencesModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/peek/referencesWidget.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/labels.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/peek/referencesTree.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/peek/referencesWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/peek/referencesController.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/symbolNavigation.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/goToSymbol.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/goToCommands.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoSymbol/link/goToDefinitionAtPosition.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/hover/hover.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/hover/hoverWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/colorPicker/colorPickerModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/colorPicker/colorPicker.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/colorPicker/colorPickerWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/hover/colorHoverParticipant.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/hover/hoverOperation.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/hover/hoverTypes.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/dompurify/dompurify.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/marked/marked.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/markdownRenderer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/browser/core/markdownRenderer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/hover/getHover.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/hover/markdownHoverParticipant.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoError/markerNavigationService.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoError/media/gotoErrorWidget.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/severityIcon/common/severityIcon.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoError/gotoErrorWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/gotoError/gotoError.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/hover/markerHoverParticipant.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/consts.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/ghostText.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/inlineCompletionToGhostText.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/inlineCompletionsModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/snippet/snippetParser.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/snippet/snippetSession.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/uuid.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/workspaces/common/workspaces.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/snippet/snippetVariables.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/snippet/snippetSession.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggest.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/snippet/snippetController2.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestMemory.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/wordContextKey.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestAlternatives.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestCommitCharacters.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/smartSelect/bracketSelections.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/wordDistance.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/completionModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestOvertypingCapturer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/media/suggest.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestWidgetStatus.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/symbolIcons/symbolIcons.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/resizable.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestWidgetDetails.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/files/common/files.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/services/getIconClasses.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestWidgetRenderer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/suggest/suggestController.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/utils.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/suggestWidgetInlineCompletionProvider.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/suggestWidgetPreviewModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/ghostTextModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/ghostText.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/ghostTextWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/ghostTextController.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlineCompletions/inlineCompletionsHoverParticipant.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/hover/modesContentHover.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/hover/modesGlyphHover.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/hover/hover.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/colorPicker/colorContributions.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/comment/blockCommentCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/comment/lineCommentCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/comment/comment.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/contextmenu/contextmenu.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/cursorUndo/cursorUndo.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/dnd/dnd.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/dnd/dragAndDropCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/dnd/dnd.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/find/findDecorations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/find/replaceAllCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/search.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/find/replacePattern.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/find/findModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/checkbox/checkbox.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/checkbox/checkbox.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/findinput/findInputCheckboxes.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/find/findOptionsWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/find/findState.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/find/findWidget.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/findinput/findInput.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/findinput/findInput.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/browser/ui/findinput/replaceInput.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/browser/contextScopedHistoryWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/browser/historyWidgetKeybindingHint.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/find/findWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/find/findController.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/folding/folding.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/folding/foldingRanges.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/folding/foldingModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/folding/hiddenRangeModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/folding/indentRangeProvider.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/folding/syntaxRangeProvider.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/folding/intializingRangeProvider.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/folding/foldingDecorations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/folding/folding.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/fontZoom/fontZoom.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/format/formatActions.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/documentSymbols/outlineModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/documentSymbols/documentSymbols.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/indentation/indentUtils.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/indentation/indentation.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inlayHints/inlayHintsController.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inPlaceReplace/inPlaceReplaceCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/inPlaceReplace/inPlaceReplace.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/common/commands/trimTrailingWhitespaceCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/linesOperations/copyLinesCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/linesOperations/moveLinesCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/linesOperations/sortLinesCommand.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/linesOperations/linesOperations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/linkedEditing/linkedEditing.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/links/links.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/links/getLinks.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/links/links.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/multicursor/multicursor.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/parameterHints/provideSignatureHelp.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/parameterHints/parameterHints.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/parameterHints/parameterHintsModel.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/parameterHints/parameterHintsWidget.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/parameterHints/parameterHints.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/rename/renameInputField.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/rename/renameInputField.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/rename/rename.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/smartSelect/wordSelections.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/smartSelect/smartSelect.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/tokenization/tokenization.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/toggleTabFocusMode/toggleTabFocusMode.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/unusualLineTerminators/unusualLineTerminators.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/viewportSemanticTokens/viewportSemanticTokens.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/wordHighlighter/wordHighlighter.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/wordOperations/wordOperations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/wordPartOperations/wordPartOperations.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/accessibilityHelp/accessibilityHelp.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/accessibilityHelp/accessibilityHelp.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/iPadShowKeyboard/iPadShowKeyboard.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/iPadShowKeyboard/iPadShowKeyboard.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/inspectTokens/inspectTokens.css": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/inspectTokens/inspectTokens.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/quickinput/browser/helpQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/quickAccess/standaloneHelpQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/quickAccess/editorNavigationQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/quickAccess/gotoLineQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/quickAccess/standaloneGotoLineQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/fuzzyScorer.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/quickAccess/gotoSymbolQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/quickAccess/standaloneGotoSymbolQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/base/common/errorMessage.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/quickinput/browser/pickerQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/platform/quickinput/browser/commandsQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/contrib/quickAccess/commandsQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/quickAccess/standaloneCommandsQuickAccess.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/referenceSearch/standaloneReferenceSearch.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/standalone/browser/toggleHighContrast/toggleHighContrast.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/editor.main.js": [
+    "/assets/editor.main.89cdaf49.js",
+    "/assets/editor.main.3d5e34c3.css",
+    "/assets/codicon.ff6b888d.ttf"
+  ],
+  "node_modules/monaco-editor/esm/vs/editor/editor.worker.js?worker": [
+    "/assets/editor.worker.79ccaf77.js",
+    "/assets/editor.worker.3080eea8.js"
+  ],
+  "node_modules/monaco-yaml/lib/esm/yaml.worker.js?worker": [
+    "/assets/yaml.worker.1791b7d5.js",
+    "/assets/yaml.worker.41c702c7.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/typescript/workerManager.js": [
+    "/assets/tsMode.1ee06f2c.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/typescript/lib/lib.index.js": [
+    "/assets/tsMode.1ee06f2c.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/typescript/languageFeatures.js": [
+    "/assets/tsMode.1ee06f2c.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/typescript/tsMode.js": [
+    "/assets/tsMode.1ee06f2c.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/css/workerManager.js": [
+    "/assets/cssMode.9f427ee4.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/css/_deps/vscode-languageserver-types/main.js": [
+    "/assets/cssMode.9f427ee4.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/css/languageFeatures.js": [
+    "/assets/cssMode.9f427ee4.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/css/cssMode.js": [
+    "/assets/cssMode.9f427ee4.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/json/workerManager.js": [
+    "/assets/jsonMode.2e639c3f.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/json/_deps/vscode-languageserver-types/main.js": [
+    "/assets/jsonMode.2e639c3f.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/json/languageFeatures.js": [
+    "/assets/jsonMode.2e639c3f.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/json/_deps/jsonc-parser/impl/scanner.js": [
+    "/assets/jsonMode.2e639c3f.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/json/_deps/jsonc-parser/impl/parser.js": [
+    "/assets/jsonMode.2e639c3f.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/json/_deps/jsonc-parser/main.js": [
+    "/assets/jsonMode.2e639c3f.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/json/tokenization.js": [
+    "/assets/jsonMode.2e639c3f.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/json/jsonMode.js": [
+    "/assets/jsonMode.2e639c3f.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/html/workerManager.js": [
+    "/assets/htmlMode.3e058ad3.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/html/_deps/vscode-languageserver-types/main.js": [
+    "/assets/htmlMode.3e058ad3.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/html/languageFeatures.js": [
+    "/assets/htmlMode.3e058ad3.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/language/html/htmlMode.js": [
+    "/assets/htmlMode.3e058ad3.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/abap/abap.js": [
+    "/assets/abap.bb0b6326.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/apex/apex.js": [
+    "/assets/apex.1cf1d441.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/azcli/azcli.js": [
+    "/assets/azcli.41697d95.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/bat/bat.js": [
+    "/assets/bat.4287dcf5.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/bicep/bicep.js": [
+    "/assets/bicep.2bcf8e3d.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/cameligo/cameligo.js": [
+    "/assets/cameligo.1c922266.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/clojure/clojure.js": [
+    "/assets/clojure.ba2aa9d2.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/coffee/coffee.js": [
+    "/assets/coffee.d5ad7236.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/cpp/cpp.js": [
+    "/assets/cpp.eb3481fc.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/csharp/csharp.js": [
+    "/assets/csharp.37f3e26b.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/csp/csp.js": [
+    "/assets/csp.fd6f4e1e.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/css/css.js": [
+    "/assets/css.2dceee61.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/dart/dart.js": [
+    "/assets/dart.5db06279.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/dockerfile/dockerfile.js": [
+    "/assets/dockerfile.676f27bb.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/ecl/ecl.js": [
+    "/assets/ecl.b0137948.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/elixir/elixir.js": [
+    "/assets/elixir.291abd3d.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/flow9/flow9.js": [
+    "/assets/flow9.bfa7b48c.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/fsharp/fsharp.js": [
+    "/assets/fsharp.3cba6d34.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/go/go.js": [
+    "/assets/go.9fc4a848.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/graphql/graphql.js": [
+    "/assets/graphql.b91e00d5.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/handlebars/handlebars.js": [
+    "/assets/handlebars.898847bc.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/hcl/hcl.js": [
+    "/assets/hcl.a5a1e28c.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/html/html.js": [
+    "/assets/html.8dd7158a.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/ini/ini.js": [
+    "/assets/ini.ec5df2eb.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/java/java.js": [
+    "/assets/java.969478ce.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/javascript/javascript.js": [
+    "/assets/javascript.c4214313.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/typescript/typescript.js": [
+    "/assets/typescript.dcd95213.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/julia/julia.js": [
+    "/assets/julia.c15b2c7b.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/kotlin/kotlin.js": [
+    "/assets/kotlin.87f5e113.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/less/less.js": [
+    "/assets/less.ec1a7eba.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/lexon/lexon.js": [
+    "/assets/lexon.10c18048.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/lua/lua.js": [
+    "/assets/lua.c0f1adcc.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/liquid/liquid.js": [
+    "/assets/liquid.0b5233a5.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/m3/m3.js": [
+    "/assets/m3.efdb0a9e.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/markdown/markdown.js": [
+    "/assets/markdown.1a4a8c12.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/mips/mips.js": [
+    "/assets/mips.887d7682.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/msdax/msdax.js": [
+    "/assets/msdax.52f24b3b.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/mysql/mysql.js": [
+    "/assets/mysql.cb22ec70.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/objective-c/objective-c.js": [
+    "/assets/objective-c.cfaff369.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pascal/pascal.js": [
+    "/assets/pascal.7a51c553.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pascaligo/pascaligo.js": [
+    "/assets/pascaligo.6a73d597.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/perl/perl.js": [
+    "/assets/perl.d48835db.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pgsql/pgsql.js": [
+    "/assets/pgsql.85b0e90f.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/php/php.js": [
+    "/assets/php.b5bfa8f3.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pla/pla.js": [
+    "/assets/pla.56bf1209.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/postiats/postiats.js": [
+    "/assets/postiats.7ceb3472.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/powerquery/powerquery.js": [
+    "/assets/powerquery.3ae39f94.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/powershell/powershell.js": [
+    "/assets/powershell.5ee99642.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/protobuf/protobuf.js": [
+    "/assets/protobuf.9812d7f9.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/pug/pug.js": [
+    "/assets/pug.d4a411ff.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/python/python.js": [
+    "/assets/python.34098541.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/qsharp/qsharp.js": [
+    "/assets/qsharp.6f052dd2.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/r/r.js": [
+    "/assets/r.2bee8c60.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/razor/razor.js": [
+    "/assets/razor.ce5e61fb.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/redis/redis.js": [
+    "/assets/redis.3d4c8e9a.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/redshift/redshift.js": [
+    "/assets/redshift.1f70c0fe.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/restructuredtext/restructuredtext.js": [
+    "/assets/restructuredtext.25dbfef6.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/ruby/ruby.js": [
+    "/assets/ruby.fa7b3370.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/rust/rust.js": [
+    "/assets/rust.5efba445.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/sb/sb.js": [
+    "/assets/sb.433cd117.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/scala/scala.js": [
+    "/assets/scala.278fc4f2.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/scheme/scheme.js": [
+    "/assets/scheme.5384f1be.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/scss/scss.js": [
+    "/assets/scss.19a80714.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/shell/shell.js": [
+    "/assets/shell.ba46ea6c.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/solidity/solidity.js": [
+    "/assets/solidity.c7fc8685.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/sophia/sophia.js": [
+    "/assets/sophia.b9746272.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/sparql/sparql.js": [
+    "/assets/sparql.a6a1947c.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/sql/sql.js": [
+    "/assets/sql.f0e722e1.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/st/st.js": [
+    "/assets/st.c62e32cc.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/swift/swift.js": [
+    "/assets/swift.6378c560.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/systemverilog/systemverilog.js": [
+    "/assets/systemverilog.cee76387.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/tcl/tcl.js": [
+    "/assets/tcl.4589735e.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/twig/twig.js": [
+    "/assets/twig.9459d58c.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/vb/vb.js": [
+    "/assets/vb.e60292d8.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/xml/xml.js": [
+    "/assets/xml.64d12377.js"
+  ],
+  "node_modules/monaco-editor/esm/vs/basic-languages/yaml/yaml.js": [
+    "/assets/yaml.d0223ca6.js"
+  ]
+}
