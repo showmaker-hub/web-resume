@@ -1,0 +1,78 @@
+{
+  "name": "web-resume",
+  "version": "0.2.0",
+  "description": "Web 简历",
+  "private": true,
+  "repository": {
+    "url": "https://github.com/YunYouJun/web-resume",
+    "type": "git"
+  },
+  "author": {
+    "url": "https://www.yunyoujun.cn",
+    "email": "me@yunyoujun.cn",
+    "name": "YunYouJun"
+  },
+  "scripts": {
+    "dev": "vite",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "lint": "eslint \"**/*.{vue,ts,js}\" --fix",
+    "serve": "vite preview",
+    "build": "cross-env NODE_ENV=production vite-ssg build",
+    "schema": "ts-node-script scripts/schema.ts",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "*.{vue,ts,js}": "eslint --fix",
+    "src/types/*.ts": "npm run schema"
+  },
+  "dependencies": {
+    "@vueuse/core": "^6.8.0",
+    "@vueuse/head": "^0.6.0",
+    "js-yaml": "^4.1.0",
+    "monaco-editor": "^0.30.0",
+    "monaco-yaml": "3.2.1",
+    "nprogress": "^0.2.0",
+    "pinia": "^2.0.2",
+    "prism-theme-vars": "^0.2.2",
+    "sass": "^1.43.4",
+    "vue": "^3.2.21",
+    "vue-about-me": "^1.2.0",
+    "vue-gtag-next": "^1.14.0",
+    "vue-i18n": "^9.2.0-beta.6",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.10.0",
+    "@iconify-json/ri": "^1.0.1",
+    "@intlify/vite-plugin-vue-i18n": "^2.5.0",
+    "@rollup/plugin-yaml": "^3.1.0",
+    "@types/js-yaml": "^4.0.4",
+    "@types/markdown-it-link-attributes": "^3.0.1",
+    "@types/node": "^16.11.6",
+    "@types/nprogress": "^0.2.0",
+    "@vitejs/plugin-vue": "^1.9.4",
+    "@vue/compiler-sfc": "^3.2.21",
+    "@vue/server-renderer": "^3.2.21",
+    "@yunyoujun/logger": "^0.1.4",
+    "critters": "^0.0.14",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.2.0",
+    "husky": "^7.0.4",
+    "lint-staged": "^11.2.6",
+    "markdown-it-link-attributes": "^3.0.0",
+    "markdown-it-prism": "^2.2.1",
+    "typescript": "^4.4.4",
+    "typescript-json-schema": "^0.51.0",
+    "unplugin-auto-import": "^0.4.13",
+    "unplugin-icons": "^0.12.18",
+    "unplugin-vue-components": "^0.17.2",
+    "vite": "^2.6.13",
+    "vite-plugin-md": "^0.11.4",
+    "vite-plugin-pages": "^0.18.2",
+    "vite-plugin-pwa": "^0.11.3",
+    "vite-plugin-vue-layouts": "^0.5.0",
+    "vite-plugin-windicss": "^1.5.1",
+    "vite-ssg": "^0.15.6"
+  }
+}
