@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # custom
 yarn.lock
 package-lock.json
@@ -34,3 +35,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+=======
+node_modules
+>>>>>>> Stashed changes
